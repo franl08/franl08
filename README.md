@@ -7,7 +7,7 @@
 [![LinkedIn badge](https://img.shields.io/badge/-franl08-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/franl08/)
 [![Email badge](https://img.shields.io/badge/-franeves08-c71610?style=for-the-badge&logo=Gmail&logoColor=black)](mailto:franeves08@gmail.com)
 
-## Stats 👀
+## Github Stats 👀
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=franl08&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franl08&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
