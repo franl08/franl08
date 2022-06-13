@@ -1,4 +1,24 @@
-### Hi there, I'm Francisco Neves, also known as tgvp :smile:
-- :upside_down_face: Currently, I'm studying Software Engineering at University of Minho.
-- 📫 To contact me, you can add me on Discord: tgvp#0705
-- 💰 [Help me surviving](https://www.buymeacoffee.com/tgvp)
+## About Me ⚡
+- 👋 I'm Francisco Neves 🇵🇹.
+- 📚 Currently, I'm finishing my bachelors on Software Engineering at University of Minho.
+- 🐧 At the moment, I'm using a minimal instalation of Arch Linux with [QTile](https://github.com/qtile/qtile) WM.
+- 💰 If you want to donate me, you can do that [here](https://www.buymeacoffee.com/tgvp). 
+- 📫 To contact me, you can add me on Discord: tgvp#0705, or use one of the following options:
+
+[![LinkedIn badge](https://img.shields.io/badge/-franl08-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/franl08/)
+[![Email badge](https://img.shields.io/badge/-franeves08-c71610?style=for-the-badge&logo=Gmail&logoColor=black)](mailto:franeves08@gmail.com)
+
+## Stats 👀
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=franl08&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franl08&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## Programming Skills 😄
+- Python
+- Java
+- C
+- Haskell
+- C\#
+- C++
+- MySQL
+
+And still rising 👀.
