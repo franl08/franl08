@@ -1,6 +1,6 @@
 ## About Me ⚡
 - 👋 I'm Francisco Neves 🇵🇹.
-- 📚 Currently, I'm finishing my bachelors on Software Engineering at University of Minho.
+- 📚 I've just finished my bachelors on Software Engineering at University of Minho.
 - 🐧 At the moment, I'm using a minimal instalation of Arch Linux with [QTile](https://github.com/qtile/qtile) WM.
 - 📫 To contact me, you can add me on Discord: tgvp#0705, or use one of the following options:
 
