@@ -19,5 +19,6 @@
 - C\#
 - C++
 - MySQL
+- Microsoft SQL Server
 
 And still rising 👀.
