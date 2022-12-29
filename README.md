@@ -14,11 +14,14 @@
 ## Programming Skills 😄
 - Python
 - Java
+- JavaScript
+- React
 - C
 - Haskell
 - C\#
 - C++
 - MySQL
+- PostgreSQL
 - Microsoft SQL Server
 
 And still rising 👀.
