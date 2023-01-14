@@ -1,6 +1,6 @@
 ## About Me ⚡
 - 👋 I'm Francisco Neves 🇵🇹.
-- 🎸 Some might know me as Schumacher, as well. 🥳
+- 🎸 Some might know me as Schumacher or Alex, as well. 🥳
 - 📚 I'm specializing myself in the areas of Language Engineering, and Software Development, Maintenence and Validation on the MSc in Software Engineering at Universidade do Minho.
 - 🐧 At the moment, I'm using a minimal instalation of Arch Linux with [QTile](https://github.com/qtile/qtile) WM.
 - 📫 To contact me, you can add me on Discord: tgvp#0705, or use one of the following options:
