@@ -1,6 +1,7 @@
 ## About Me ⚡
 - 👋 I'm Francisco Neves 🇵🇹.
-- 📚 I've just finished my bachelors on Software Engineering at University of Minho.
+- 🎸 Some might know me as Schumacher, as well. 🥳
+- 📚 I'm specializing myself in the areas of Language Engineering, and Software Development, Maintenence and Validation on the MSc in Software Engineering at Universidade do Minho.
 - 🐧 At the moment, I'm using a minimal instalation of Arch Linux with [QTile](https://github.com/qtile/qtile) WM.
 - 📫 To contact me, you can add me on Discord: tgvp#0705, or use one of the following options:
 
@@ -20,6 +21,9 @@
 - Haskell
 - C\#
 - C++
+- Ansible
+- Docker
+- K8s
 - MySQL
 - PostgreSQL
 - Microsoft SQL Server
