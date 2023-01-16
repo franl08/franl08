@@ -13,6 +13,8 @@
 - Java
 - JavaScript
 - React
+- HTML
+- CSS
 - C
 - Haskell
 - C\#
