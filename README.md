@@ -13,6 +13,7 @@
 - Java
 - JavaScript
 - React
+- NodeJS
 - HTML
 - CSS
 - C
