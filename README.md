@@ -28,3 +28,5 @@
 - Microsoft SQL Server
 
 And still rising 👀.
+
+Currently, learning Go ⚡
