@@ -13,6 +13,8 @@
 - Java
 - JavaScript
 - React
+- Svelte
+- React Native
 - NodeJS
 - HTML
 - CSS
