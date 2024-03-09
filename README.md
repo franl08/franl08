@@ -1,7 +1,7 @@
 ## About Me ⚡
 - 👋 I'm Francisco Neves 🇵🇹.
 - 📚 I'm currently writing my thesis.
-- 📫 To contact me, you can add me on Discord: tgvp, or use one of the following options:
+- 📫 To contact me, you can use one of the following options:
 
 [![LinkedIn badge](https://img.shields.io/badge/-franl08-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/franl08/)
 [![Email badge](https://img.shields.io/badge/-franeves08-c71610?style=for-the-badge&logo=Gmail&logoColor=black)](mailto:franeves08@gmail.com)
@@ -22,9 +22,7 @@
 - C++
 - Ansible
 - Docker
-- K8s
+- Kubernetes
 - MySQL
 - PostgreSQL
-- Microsoft SQL Server
-
-And still rising 👀.
+- Microsoft SQL Server.
