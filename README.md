@@ -1,6 +1,6 @@
 ## About Me ⚡
 - 👋 I'm Francisco Neves 🇵🇹.
-- 📚 I'm currently writing my thesis.
+- 📚 I'm currently finishing my thesis.
 - 📫 To contact me, you can use one of the following options:
 
 [![LinkedIn badge](https://img.shields.io/badge/-franl08-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/franl08/)
